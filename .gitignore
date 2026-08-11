@@ -1,0 +1,14 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.renv/
+/renv/
+Rplots.pdf
+.env
+.env.*
+*.log
+*.zip
+/data/FIFA2017_NL.RData
+/results/

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this research code or its results, please cite the project and all three authors."
+title: "The Beautiful Game, Reduced: PCA, Sparse PCA, and Penalized Matrix Decomposition of Eredivisie Player Skills"
+type: software
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/SadraDaneshvar/the-beautiful-game-reduced-fifa-pca-spca"
+authors:
+  - family-names: Serra
+    given-names: Francesco
+  - family-names: Siegmann
+    given-names: Job
+  - family-names: Daneshvar
+    given-names: Sadra
+abstract: >-
+  A dimension-reduction study of FIFA 17 Eredivisie player attributes using
+  principal component analysis, sparse principal component analysis, and an
+  independently implemented penalized matrix decomposition with numerical
+  comparison against PMA.
+keywords:
+  - principal component analysis
+  - sparse PCA
+  - penalized matrix decomposition
+  - dimension reduction
+  - sports analytics
+  - football analytics
+  - R
